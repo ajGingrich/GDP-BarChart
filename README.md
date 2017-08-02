@@ -1,4 +1,4 @@
-# Use the Twitchtv JSON API
+# Visualize Data with a Bar Chart
 
 Objective 
 ------
